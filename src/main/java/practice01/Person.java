@@ -18,7 +18,7 @@ public class Person {
 		}
 		
 		public Person(String name, int age) {
-			super();
+		//	super();
 			this.name = name;
 			this.age = age;
 		}
